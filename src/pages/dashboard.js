@@ -20,7 +20,7 @@ export default function Dashboard() {
     <div style={styles.container}>
       {/* Sidebar */}
       <aside style={styles.sidebar}>
-        <h2 style={styles.logo}>MyDashboard</h2>
+        <h2 style={styles.logo}>NoteWise</h2>
 
         <nav style={styles.nav}>
           <a style={styles.navItem}>🏠 Home</a>

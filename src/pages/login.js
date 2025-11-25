@@ -44,7 +44,7 @@ export default function Login() {
           boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
         }}
       >
-        <h2 style={{ textAlign: "center", marginBottom: "20px" }}>Login</h2>
+        <h2 style={{ fontSize: "25px",textAlign: "center", marginBottom: "20px" }}>Login</h2>
 
         {error && (
           <div
@@ -93,7 +93,7 @@ export default function Login() {
             style={{
               width: "100%",
               padding: "10px",
-              background: "#0070f3",
+              background: "#1c291fff",
               color: "#fff",
               border: "none",
               borderRadius: "8px",

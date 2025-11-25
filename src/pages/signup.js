@@ -55,7 +55,7 @@ export default function Signup() {
         justifyContent: "center",
         alignItems: "center",
         height: "100vh",
-        background: "#5b3116ff",
+        background: "#202020ff",
       }}
     >
       <div
@@ -67,7 +67,7 @@ export default function Signup() {
           boxShadow: "0 4px 12px rgba(0,0,0,0.1)",
         }}
       >
-        <h1 style={{ textAlign: "center", marginBottom: "20px" }}>Create Account</h1>
+        <h1 style={{ fontSize: "25px", textAlign: "center", marginBottom: "20px" }}>Create Account</h1>
 
         {error && (
           <div
